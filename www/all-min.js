@@ -1,0 +1,1 @@
+function testA(t){console.log("this is "+t)}function testB(t){console.log("this is "+t)}testA("A"),testB("B");

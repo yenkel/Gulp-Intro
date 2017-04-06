@@ -1,0 +1,9 @@
+//main.scss
+@mixin special-style($color) {
+    color: $color;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+@import "./file1";
+@import "./file2";

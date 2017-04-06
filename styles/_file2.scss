@@ -1,0 +1,6 @@
+//file2.scss
+.my-class2 {
+    p {
+        @include special-style(yellow);
+    }
+}

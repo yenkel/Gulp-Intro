@@ -1,0 +1,8 @@
+//file1.scss
+.my-class1 {
+    div {
+        span {
+            @include special-style(#0070e0);
+        }
+    }
+}
